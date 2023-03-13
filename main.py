@@ -135,7 +135,7 @@ def add_word(direction):
         counterHorizontal = 0
         counterVertical = 0
 
-        for i in range(0, len(randomWord))
+        for i in range(0, len(randomWord)):
             testChar = list(randomWord)[i]
             try:
                 if (grid[randomRow+counterVertical][randomField+counterHorizontal] == "0"):
