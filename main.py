@@ -50,16 +50,16 @@ if (userDefinedGeneration == "userDefined"):
                          "TRAUBE",
                          "ANANAS", "ERDBEERE", "BROMBEERE", "HIMBEERE", "JOHANNISBEERE", "MIRABELLE", "NEKTARINE",
                          "MANDERINE",
-                         "KAKI", "QUITTE"]  # The list with the words for use with theme 'fruit'.
+                         "KAKI", "QUITTE"]
 
             elif (wordTheme == "in-the-air"):
-                words = ["FLUGZEUG", "VOGEL", "WOLKE", "HUBSCHRAUBER", "JET", "REGENBOGEN"]  # The list with the words for use with theme 'in-the-air'.
+                words = ["FLUGZEUG", "VOGEL", "WOLKE", "HUBSCHRAUBER", "JET", "REGENBOGEN"]
 
             elif (wordTheme == "animal"):
                 words = ["KATZE", "HUND", "BIENE", "PINGUIN", "AMSEL", "LOEWE", "ELEFANT", "AFFE", "BÄR", "WOLF",
                          "TIGER", "FISCH", "PFERD", "NASHORN", "WILDSCHWEIN", "HUHN", "SCHWAN", "MÜCKE", "LIBELLE",
                          "SCHMETTERLING", "MAUS", "HIRSCH", "WURM", "MAULWURF", "STINKTIER", "RAUPE", "MEISE",
-                         "ZEBRA", "WACHSMOTTE", "JAGUAR", "ANTILOPE", "KAKADU", "SCHLANGE"]  # The list with the words for use with theme 'animal'.
+                         "ZEBRA", "WACHSMOTTE", "JAGUAR", "ANTILOPE", "KAKADU", "SCHLANGE"]
 
             elif (wordTheme == "job"):
                 words = ["MALER", "SCHORNSTERINFEGER", "VERKAEUFER", "PROGRAMMIERER", "BAUARBEITER", "IMKER",
